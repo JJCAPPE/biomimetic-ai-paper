@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  15 APR 2025 12:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  17 APR 2025 10:27
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/giacomo/Documents/English/WR152/Research-Paper/article.tex
-(/Users/giacomo/Documents/English/WR152/Research-Paper/article.tex
+**article-cover-memo.tex
+(./article-cover-memo.tex
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -746,8 +746,8 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 77.
 
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 77.
-) (./article.aux)
-\openout1 = `article.aux'.
+) (build/article-cover-memo.aux)
+\openout1 = `article-cover-memo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
@@ -822,9 +822,9 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 51.
- (./article.out) (./article.out)
+ (build/article-cover-memo.out) (build/article-cover-memo.out)
 \@outlinefile=\write3
-\openout3 = `article.out'.
+\openout3 = `article-cover-memo.out'.
 
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
@@ -882,13 +882,13 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 Package tocbasic Info: character protrusion at toc deactivated on input line 71.
- (./article.toc
+ (build/article-cover-memo.toc
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 )
 \tf@toc=\write4
-\openout4 = `article.toc'.
+\openout4 = `article-cover-memo.toc'.
 
 
 
@@ -903,20 +903,20 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (0.95242pt too wide) in paragraph at lines 112--113
+
+[2]
+Overfull \hbox (0.95242pt too wide) in paragraph at lines 117--118
 []\T1/pplj/m/n/10 This "sys-tem-atic-ity chal-lenge" has echoed through decades of AI re-search; while
  []
 
 
 
-[2]
-Overfull \hbox (21.57982pt too wide) in paragraph at lines 124--125
+[3]
+Overfull \hbox (21.57982pt too wide) in paragraph at lines 129--130
 \T1/pplj/m/n/10 and Ba-roni (2023) em-ployed a care-fully de-signed few-shot instruction-learning paradigm.
  []
 
 
-
-[3]
 
 [4]
 
@@ -924,29 +924,31 @@ Overfull \hbox (21.57982pt too wide) in paragraph at lines 124--125
 
 [6]
 
-[7] (./article.bbl)
+[7]
 
-[8] (./article.aux)
+[8] (build/article-cover-memo.bbl)
+
+[9] (build/article-cover-memo.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `article.out' has not changed.
+Package rerunfilecheck Info: File `article-cover-memo.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22055 strings out of 473362
- 411356 string characters out of 11470983
- 13069832 words of memory out of 22000000
- 44726 multiletter control sequences out of 15000+600000
- 655866 words of font info for 166 fonts, out of 12000000 for 9000
+ 21985 strings out of 473362
+ 410161 string characters out of 11470983
+ 13069865 words of memory out of 22000000
+ 44669 multiletter control sequences out of 15000+600000
+ 651216 words of font info for 152 fonts, out of 12000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,22n,121p,10956b,663s stack positions out of 10000i,1000n,20000p,12000000b,200000s
+ 108i,23n,115p,10913b,581s stack positions out of 10000i,1000n,20000p,12000000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on article.pdf (8 pages, 162523 bytes).
+Output written on build/article-cover-memo.pdf (9 pages, 164384 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 37513 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 30345 words of extra memory for PDF output out of 35830 (max. 10000000)
 

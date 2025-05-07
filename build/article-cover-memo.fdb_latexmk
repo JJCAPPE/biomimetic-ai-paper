@@ -1,14 +1,13 @@
 # Fdb version 4
-["bibtex article"] 1744735982.90022 "article.aux" "article.bbl" "article" 1744735987.80996 0
+["bibtex build/article-cover-memo"] 1744900028.68477 "build/article-cover-memo.aux" "build/article-cover-memo.bbl" "build/article-cover-memo" 1744900030.50304 0
   "./article.bib" 1744735828.55327 6016 91f70e8f1304e7215640fe693748b446 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "article.aux" 1744735987.59875 11130 7e1b7f4e6bab7aa421f025438bdddbba "pdflatex"
+  "build/article-cover-memo.aux" 1744900030.30138 11158 657200fc1f581d7b59af99a95ca8da8b "pdflatex"
   (generated)
-  "article.bbl"
-  "article.blg"
+  "build/article-cover-memo.bbl"
+  "build/article-cover-memo.blg"
   (rewritten before read)
-["pdflatex"] 1744735986.34858 "/Users/giacomo/Documents/English/WR152/Research-Paper/article.tex" "article.pdf" "article" 1744735987.81005 0
-  "/Users/giacomo/Documents/English/WR152/Research-Paper/article.tex" 1744735976.08581 25613 704f94526d5e8c10476183a80ac968b7 ""
+["pdflatex"] 1744900028.76865 "article-cover-memo.tex" "build/article-cover-memo.pdf" "article-cover-memo" 1744900030.50314 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc" 1276043435 2452 388b1f44dfda03ab19527677af70e7fb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc" 1276043435 2027 f8708480c25b8150843bb94b8b39c93f ""
@@ -172,16 +171,16 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1731344822 5475505 9858817de6e728d163c121232b884c29 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731345038 3342715 e23a281e5dc254497d6c461fa8d5a141 ""
   "/usr/local/texlive/2024/texmf.cnf" 1729722333.78626 780 2ce0de11e5a206fa6cabe3358d07583f ""
-  "article.aux" 1744735987.59875 11130 7e1b7f4e6bab7aa421f025438bdddbba "pdflatex"
-  "article.bbl" 1744735982.98586 4825 b347c032d62ff62f13be6c39177deb39 "bibtex article"
-  "article.out" 1744735987.16625 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "article.tex" 1744735976.08581 25613 704f94526d5e8c10476183a80ac968b7 ""
-  "article.toc" 1744735987.60086 1616 859721a4cedf1fc7ed928c612b79babd "pdflatex"
+  "article-cover-memo.tex" 1744823289.41864 27394 ab5a9baa0c5db675e83ceca24a7100bb ""
+  "build/article-cover-memo.aux" 1744900030.30138 11158 657200fc1f581d7b59af99a95ca8da8b "pdflatex"
+  "build/article-cover-memo.bbl" 1744900028.76447 4825 b347c032d62ff62f13be6c39177deb39 "bibtex build/article-cover-memo"
+  "build/article-cover-memo.out" 1744900029.85792 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/article-cover-memo.toc" 1744900030.30553 1616 37c0ce9d2ab7544e0c964eace9c308f5 "pdflatex"
   "structure.tex" 1743978591.90709 3246 7aae8e5b247bba0aad276b4e0650cc1e ""
   (generated)
-  "article.aux"
-  "article.log"
-  "article.out"
-  "article.pdf"
-  "article.toc"
+  "build/article-cover-memo.aux"
+  "build/article-cover-memo.log"
+  "build/article-cover-memo.out"
+  "build/article-cover-memo.pdf"
+  "build/article-cover-memo.toc"
   (rewritten before read)

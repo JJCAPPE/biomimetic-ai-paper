@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: article-cover-memo.aux
+The style file: chicago.bst
+Database file #1: article.bib
+Warning--page numbers missing in fodor-1988
+Warning--page numbers missing in faramarzi-2019
+Warning--no number and no volume in hospedales-2021
+Warning--no number and no volume in lake-2018
+Warning--empty publisher in marcus-2001
+You've used 15 entries,
+            2861 wiz_defined-function locations,
+            707 strings with 7712 characters,
+and the built_in function-call counts, 12661 in all, are:
+= -- 960
+> -- 1199
+< -- 0
++ -- 376
+- -- 404
+* -- 1332
+:= -- 2349
+add.period$ -- 44
+call.type$ -- 15
+change.case$ -- 134
+chr.to.int$ -- 15
+cite$ -- 20
+duplicate$ -- 264
+empty$ -- 636
+format.name$ -- 452
+if$ -- 2297
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 16
+newline$ -- 77
+num.names$ -- 150
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 277
+stack$ -- 0
+substring$ -- 607
+swap$ -- 85
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 290
+warning$ -- 5
+while$ -- 140
+width$ -- 0
+write$ -- 195
+(There were 5 warnings)
